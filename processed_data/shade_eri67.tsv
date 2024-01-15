@@ -1,0 +1,49 @@
+sp_st_gene	V8	edge	Vx	V9	ord
+Ce-7 strains	2	start_edge	5884	2	1
+Ce-7 strains	2	end_edge	7161	2	2
+Ce-JU1400	1	end_edge	7161	2	3
+Ce-JU1400	1	start_edge	5884	2	4
+Ce-ref-N2	3	start_edge	5884	3	1
+Ce-ref-N2	3	end_edge	7161	3	2
+Ce-7 strains	2	end_edge	7161	3	3
+Ce-7 strains	2	start_edge	5884	3	4
+Ce-JU2526	4	start_edge	5884	4	1
+Ce-JU2526	4	end_edge	7161	4	2
+Ce-ref-N2	3	end_edge	7161	4	3
+Ce-ref-N2	3	start_edge	5884	4	4
+Ce-ECA396	5	start_edge	6650	5	1
+Ce-ECA396	5	end_edge	7927	5	2
+Ce-JU2526	4	end_edge	7161	5	3
+Ce-JU2526	4	start_edge	5884	5	4
+Ce-DL238	6	start_edge	11706	6	1
+Ce-DL238	6	end_edge	12964	6	2
+Ce-ECA396	5	start_edge	6650	6	3
+Ce-ECA396	5	end_edge	7927	6	4
+Ce-CB4856	7	start_edge	11672	7	1
+Ce-CB4856	7	end_edge	12930	7	2
+Ce-DL238	6	end_edge	12964	7	3
+Ce-DL238	6	start_edge	11706	7	4
+Ce-NIC526	8	start_edge	5424	8	1
+Ce-NIC526	8	end_edge	6682	8	2
+Ce-CB4856	7	end_edge	12930	8	3
+Ce-CB4856	7	start_edge	11672	8	4
+Ce-ECA36	9	start_edge	5424	9	1
+Ce-ECA36	9	end_edge	6682	9	2
+Ce-NIC526	8	end_edge	6682	9	3
+Ce-NIC526	8	start_edge	5424	9	4
+Ce-XZ1516	10	start_edge	5424	10	1
+Ce-XZ1516	10	end_edge	6682	10	2
+Ce-ECA36	9	end_edge	6682	10	3
+Ce-ECA36	9	start_edge	5424	10	4
+Cbr-ref	11	start_edge	3133	11	1
+Cbr-ref	11	end_edge	4533	11	2
+Ce-XZ1516	10	end_edge	6682	11	3
+Ce-XZ1516	10	start_edge	5424	11	4
+Cbn-ref	12	start_edge	2469	12	1
+Cbn-ref	12	end_edge	3915	12	2
+Cbr-ref	11	end_edge	4533	12	3
+Cbr-ref	11	start_edge	3133	12	4
+Ce-7 strains	2	start_edge	5884	21	1
+Ce-7 strains	2	end_edge	7161	21	2
+Ce-JU1400	1	end_edge	9994	21	3
+Ce-JU1400	1	start_edge	8717	21	4

@@ -1,0 +1,321 @@
+seqnames	start	end	strand	type	gene_name	exon_id	transcript_biotype	gene	sp_st_gene	V8	start1	end1	same	diff	name
+Cbre_Contig101	1	58	-	CDS	WBGene00155113	18	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	117	249	-	CDS	WBGene00155113	17	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	347	494	-	CDS	WBGene00155113	16	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	543	637	-	CDS	WBGene00155113	15	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	685	860	-	CDS	WBGene00155113	14	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	1065	1244	-	CDS	WBGene00155113	13	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	1391	1502	-	CDS	WBGene00155113	12	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	1554	1656	-	CDS	WBGene00155113	11	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	1707	1808	-	CDS	WBGene00155113	10	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	1854	1927	-	CDS	WBGene00155113	9	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	2033	2424	-	CDS	WBGene00155113	8	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	2469	2584	-	CDS	WBGene00155113	7	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	2732	2841	-	CDS	WBGene00155113	6	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	2889	3024	-	CDS	WBGene00155113	5	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	3074	3245	-	CDS	WBGene00155113	4	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	3422	3534	-	CDS	WBGene00155113	3	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	3589	3682	-	CDS	WBGene00155113	2	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+Cbre_Contig101	3728	3915	-	CDS	WBGene00155113	1	protein_coding	Cbn-ref	Cbn-ref	12	NA	NA	NA	NA	NA
+I	1	211	-	CDS	WBGene00026751	19	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	214	267	-	CDS	WBGene00026751	18	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	315	447	-	CDS	WBGene00026751	17	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	770	917	-	CDS	WBGene00026751	16	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	962	1056	-	CDS	WBGene00026751	15	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	1108	1268	-	CDS	WBGene00026751	14	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	1316	1495	-	CDS	WBGene00026751	13	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	1655	1766	-	CDS	WBGene00026751	12	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	2167	2269	-	CDS	WBGene00026751	11	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	2314	2415	-	CDS	WBGene00026751	10	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	2579	2652	-	CDS	WBGene00026751	9	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	2697	3088	-	CDS	WBGene00026751	8	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	3133	3248	-	CDS	WBGene00026751	7	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	3477	3598	-	CDS	WBGene00026751	6	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	3648	3786	-	CDS	WBGene00026751	5	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	3829	4000	-	CDS	WBGene00026751	4	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	4048	4160	-	CDS	WBGene00026751	3	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	4206	4299	-	CDS	WBGene00026751	2	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	4349	4533	-	CDS	WBGene00026751	1	protein_coding	Cbr-ref	Cbr-ref	11	NA	NA	NA	NA	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-XZ1516	10	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-XZ1516	10	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-XZ1516	10	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-XZ1516	10	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-XZ1516	10	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-XZ1516	10	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-XZ1516	10	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-XZ1516	10	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-XZ1516	10	4455944	4456335	yes	same	
+I	5405	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-XZ1516	10	4458534	4458668	no	same	
+I	5424	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-XZ1516	10	4458534	4458649	no	same	
+I	5585	5691	-	CDS	WBGene00016561	6	protein_coding	Ce-eri-7	Ce-XZ1516	10	4458382	4458488	no	same	
+I	5742	5880	-	CDS	WBGene00016561	5	protein_coding	Ce-eri-7	Ce-XZ1516	10	4458193	4458331	no	same	
+I	5937	6123	-	CDS	WBGene00016561	4	protein_coding	Ce-eri-7	Ce-XZ1516	10	4457950	4458136	no	same	
+I	6173	6285	-	CDS	WBGene00016561	3	protein_coding	Ce-eri-7	Ce-XZ1516	10	4457788	4457900	no	same	
+I	6336	6429	-	CDS	WBGene00016561	2	protein_coding	Ce-eri-7	Ce-XZ1516	10	4457644	4457737	no	same	
+I	6498	6682	-	CDS	WBGene00016561	1	protein_coding	Ce-eri-7	Ce-XZ1516	10	4457391	4457575	no	same	
+I	8681	11236	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-XZ1516	10	4460149	4462704	no	same	
+I	11989	12085	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-XZ1516	10	4463457	4463553	no	same	
+I	12473	12734	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-XZ1516	10	4463854	4464115	no	same	
+I	12777	13578	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-XZ1516	10	4464158	4464959	no	same	
+I	14357	14372	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-XZ1516	10	4465738	4465753	no	same	
+I	14441	14525	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-XZ1516	10	4465822	4465906	no	same	
+I	14570	14627	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-XZ1516	10	4465951	4466008	no	same	
+I	14834	15263	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-XZ1516	10	4466215	4466644	no	same	
+I	17761	17809	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-XZ1516	10	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-ECA36	9	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-ECA36	9	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-ECA36	9	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-ECA36	9	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-ECA36	9	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-ECA36	9	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-ECA36	9	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-ECA36	9	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-ECA36	9	4455944	4456335	yes	same	
+I	5405	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-ECA36	9	4458534	4458668	no	same	
+I	5424	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-ECA36	9	4458534	4458649	no	same	
+I	5585	5691	-	CDS	WBGene00016561	6	protein_coding	Ce-eri-7	Ce-ECA36	9	4458382	4458488	no	same	
+I	5742	5880	-	CDS	WBGene00016561	5	protein_coding	Ce-eri-7	Ce-ECA36	9	4458193	4458331	no	same	
+I	5937	6123	-	CDS	WBGene00016561	4	protein_coding	Ce-eri-7	Ce-ECA36	9	4457950	4458136	no	same	
+I	6173	6285	-	CDS	WBGene00016561	3	protein_coding	Ce-eri-7	Ce-ECA36	9	4457788	4457900	no	same	
+I	6336	6429	-	CDS	WBGene00016561	2	protein_coding	Ce-eri-7	Ce-ECA36	9	4457644	4457737	no	same	
+I	6498	6682	-	CDS	WBGene00016561	1	protein_coding	Ce-eri-7	Ce-ECA36	9	4457391	4457575	no	same	
+I	8681	11236	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-ECA36	9	4460149	4462704	no	same	
+I	11989	12085	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ECA36	9	4463457	4463553	no	same	
+I	12508	12769	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA36	9	4463854	4464115	no	same	
+I	12812	13613	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ECA36	9	4464158	4464959	no	same	
+I	14392	14407	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ECA36	9	4465738	4465753	no	same	
+I	14476	14560	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA36	9	4465822	4465906	no	same	
+I	14605	14662	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ECA36	9	4465951	4466008	no	same	
+I	14869	15298	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ECA36	9	4466215	4466644	no	same	
+I	17796	17844	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ECA36	9	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-NIC526	8	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-NIC526	8	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-NIC526	8	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-NIC526	8	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-NIC526	8	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-NIC526	8	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-NIC526	8	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-NIC526	8	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-NIC526	8	4455944	4456335	yes	same	
+I	5405	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-NIC526	8	4458534	4458668	no	same	
+I	5424	5539	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-NIC526	8	4458534	4458649	no	same	
+I	5585	5691	-	CDS	WBGene00016561	6	protein_coding	Ce-eri-7	Ce-NIC526	8	4458382	4458488	no	same	
+I	5742	5880	-	CDS	WBGene00016561	5	protein_coding	Ce-eri-7	Ce-NIC526	8	4458193	4458331	no	same	
+I	5937	6123	-	CDS	WBGene00016561	4	protein_coding	Ce-eri-7	Ce-NIC526	8	4457950	4458136	no	same	
+I	6173	6285	-	CDS	WBGene00016561	3	protein_coding	Ce-eri-7	Ce-NIC526	8	4457788	4457900	no	same	
+I	6336	6429	-	CDS	WBGene00016561	2	protein_coding	Ce-eri-7	Ce-NIC526	8	4457644	4457737	no	same	
+I	6498	6682	-	CDS	WBGene00016561	1	protein_coding	Ce-eri-7	Ce-NIC526	8	4457391	4457575	no	same	
+I	8671	11226	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-NIC526	8	4460149	4462704	no	same	
+I	11979	12075	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-NIC526	8	4463457	4463553	no	same	
+I	12463	12724	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-NIC526	8	4463854	4464115	no	same	
+I	12767	13568	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-NIC526	8	4464158	4464959	no	same	
+I	14309	14324	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-NIC526	8	4465738	4465753	no	same	
+I	14393	14477	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-NIC526	8	4465822	4465906	no	same	
+I	14522	14579	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-NIC526	8	4465951	4466008	no	same	
+I	14786	15195	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-NIC526	8	4466215	4466644	no	diff	
+I	17464	17512	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-NIC526	8	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-CB4856	7	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-CB4856	7	4452269	4452401	yes	same	
+I	1777	2019	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-CB4856	7	4452446	4452688	no	same	
+I	2631	2803	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-CB4856	7	4453300	4453472	no	same	
+I	2850	3032	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-CB4856	7	4453519	4453701	no	same	
+I	3961	4175	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-CB4856	7	4454630	4454844	no	same	
+I	4222	4323	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-CB4856	7	4454891	4454992	no	same	
+I	4702	4775	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-CB4856	7	4455371	4455444	no	same	
+I	5275	5666	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-CB4856	7	4455944	4456335	no	same	
+I	6096	6136	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-CB4856	7	4456765	4456805	no	same	
+I	11653	11787	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-CB4856	7	4458534	4458668	no	same	
+I	11672	11787	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-CB4856	7	4458534	4458649	no	same	
+I	11833	11939	-	CDS	WBGene00016561	6	protein_coding	Ce-eri-7	Ce-CB4856	7	4458382	4458488	no	same	
+I	11990	12128	-	CDS	WBGene00016561	5	protein_coding	Ce-eri-7	Ce-CB4856	7	4458193	4458331	no	same	
+I	12185	12371	-	CDS	WBGene00016561	4	protein_coding	Ce-eri-7	Ce-CB4856	7	4457950	4458136	no	same	
+I	12421	12533	-	CDS	WBGene00016561	3	protein_coding	Ce-eri-7	Ce-CB4856	7	4457788	4457900	no	same	
+I	12584	12677	-	CDS	WBGene00016561	2	protein_coding	Ce-eri-7	Ce-CB4856	7	4457644	4457737	no	same	
+I	12746	12930	-	CDS	WBGene00016561	1	protein_coding	Ce-eri-7	Ce-CB4856	7	4457391	4457575	no	same	
+I	20907	23462	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-CB4856	7	4460149	4462704	no	same	
+I	24215	24311	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-CB4856	7	4463457	4463553	no	same	
+I	24699	24960	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-CB4856	7	4463854	4464115	no	same	
+I	25003	25804	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-CB4856	7	4464158	4464959	no	same	
+I	26583	26598	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-CB4856	7	4465738	4465753	no	same	
+I	26667	26751	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-CB4856	7	4465822	4465906	no	same	
+I	26796	26853	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-CB4856	7	4465951	4466008	no	same	
+I	27060	27489	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-CB4856	7	4466215	4466644	no	same	
+I	29987	30035	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-CB4856	7	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-DL238	6	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-DL238	6	4452269	4452401	yes	same	
+I	1777	2019	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-DL238	6	4452446	4452688	no	same	
+I	2631	2803	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-DL238	6	4453300	4453472	no	same	
+I	2850	3032	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-DL238	6	4453519	4453701	no	same	
+I	3961	4175	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-DL238	6	4454630	4454844	no	same	
+I	4222	4323	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-DL238	6	4454891	4454992	no	same	
+I	4702	4775	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-DL238	6	4455371	4455444	no	same	
+I	5275	5666	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-DL238	6	4455944	4456335	no	same	
+I	6096	6136	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-DL238	6	4456765	4456805	no	same	
+I	11687	11821	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-DL238	6	4458534	4458668	no	same	
+I	11706	11821	-	CDS	WBGene00016561	7	protein_coding	Ce-eri-7	Ce-DL238	6	4458534	4458649	no	same	
+I	11867	11973	-	CDS	WBGene00016561	6	protein_coding	Ce-eri-7	Ce-DL238	6	4458382	4458488	no	same	
+I	12024	12162	-	CDS	WBGene00016561	5	protein_coding	Ce-eri-7	Ce-DL238	6	4458193	4458331	no	same	
+I	12219	12405	-	CDS	WBGene00016561	4	protein_coding	Ce-eri-7	Ce-DL238	6	4457950	4458136	no	same	
+I	12455	12567	-	CDS	WBGene00016561	3	protein_coding	Ce-eri-7	Ce-DL238	6	4457788	4457900	no	same	
+I	12618	12711	-	CDS	WBGene00016561	2	protein_coding	Ce-eri-7	Ce-DL238	6	4457644	4457737	no	same	
+I	12780	12964	-	CDS	WBGene00016561	1	protein_coding	Ce-eri-7	Ce-DL238	6	4457391	4457575	no	same	
+I	17897	20452	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-DL238	6	4460149	4462704	no	same	
+I	21205	21301	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-DL238	6	4463457	4463553	no	same	
+I	21689	21950	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-DL238	6	4463854	4464115	no	same	
+I	21993	22794	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-DL238	6	4464158	4464959	no	same	
+I	23573	23588	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-DL238	6	4465738	4465753	no	same	
+I	23657	23741	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-DL238	6	4465822	4465906	no	same	
+I	23786	23843	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-DL238	6	4465951	4466008	no	same	
+I	24050	24479	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-DL238	6	4466215	4466644	no	same	
+I	26977	27025	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-DL238	6	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-ECA396	5	4451508	4451826	yes	same	
+I	690	822	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-ECA396	5	4452269	4452401	no	same	
+I	1705	1947	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-ECA396	5	4452446	4452688	no	same	
+I	2559	2731	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-ECA396	5	4453300	4453472	no	same	
+I	2778	2960	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-ECA396	5	4453519	4453701	no	same	
+I	3889	4103	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-ECA396	5	4454630	4454844	no	same	
+I	4150	4251	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-ECA396	5	4454891	4454992	no	same	
+I	4630	4703	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-ECA396	5	4455371	4455444	no	same	
+I	5203	5594	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-ECA396	5	4455944	4456335	no	same	
+I	6024	6064	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-ECA396	5	4456765	4456805	no	same	
+I	6650	6834	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA396	5	4457391	4457575	no	same	
+I	6903	6996	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ECA396	5	4457644	4457737	no	same	
+I	7047	7159	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ECA396	5	4457788	4457900	no	same	
+I	7209	7395	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-ECA396	5	4457950	4458136	no	same	
+I	7452	7590	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-ECA396	5	4458193	4458331	no	same	
+I	7641	7747	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-ECA396	5	4458382	4458488	no	same	
+I	7793	7927	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-ECA396	5	4458534	4458668	no	same	
+I	7793	7908	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-ECA396	5	4458534	4458649	no	same	
+I	14476	16911	+	CDS	WBGene00016565	1	protein_coding	INV-sosi-1	Ce-ECA396	5	4460149	4462584	no	same	Ss1
+I	16989	19067	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-ECA396	5	NA	NA	no	diff	Ss2
+I	19661	19849	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-ECA396	5	NA	NA	no	diff	Ss3
+I	20528	20624	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ECA396	5	4463457	4463553	no	same	
+I	21082	21343	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA396	5	4463854	4464115	no	same	
+I	21386	22187	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ECA396	5	4464158	4464959	no	same	
+I	22966	22981	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ECA396	5	4465738	4465753	no	same	
+I	23050	23101	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA396	5	4465822	4465906	no	diff	
+I	26590	26622	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ECA396	5	4465822	4465906	no	diff	
+I	26667	26724	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ECA396	5	4465951	4466008	no	same	
+I	26931	27360	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ECA396	5	4466215	4466644	no	same	
+I	29858	29906	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ECA396	5	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-JU2526	4	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-JU2526	4	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-JU2526	4	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-JU2526	4	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-JU2526	4	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-JU2526	4	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-JU2526	4	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-JU2526	4	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-JU2526	4	4455944	4456335	yes	same	
+I	5258	5298	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-JU2526	4	4456765	4456805	yes	same	
+I	5884	6068	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU2526	4	4457391	4457575	yes	same	
+I	6137	6230	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU2526	4	4457644	4457737	yes	same	
+I	6281	6393	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU2526	4	4457788	4457900	yes	same	
+I	6443	6629	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-JU2526	4	4457950	4458136	yes	same	
+I	6686	6824	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-JU2526	4	4458193	4458331	yes	same	
+I	6875	6981	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-JU2526	4	4458382	4458488	yes	same	
+I	7027	7161	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU2526	4	4458534	4458668	yes	same	
+I	7027	7142	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU2526	4	4458534	4458649	yes	same	
+I	13708	16143	+	CDS	WBGene00016565	1	protein_coding	INV-sosi-1	Ce-JU2526	4	4460149	4462584	no	same	Ss4
+I	16145	16767	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-JU2526	4	NA	NA	no	diff	Ss5
+I	16768	17341	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-JU2526	4	NA	NA	no	diff	Ss6
+I	18018	18114	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-JU2526	4	4463457	4463553	no	same	
+I	18572	18833	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU2526	4	4463854	4464115	no	same	
+I	18876	19677	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU2526	4	4464158	4464959	no	same	
+I	20456	20471	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU2526	4	4465738	4465753	no	same	
+I	20540	20624	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU2526	4	4465822	4465906	no	same	
+I	20669	20726	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU2526	4	4465951	4466008	no	same	
+I	20933	21362	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU2526	4	4466215	4466644	no	same	
+I	23860	23908	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-JU2526	4	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	5258	5298	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-ref-N2	3	NA	NA	NA	NA	
+I	5884	6068	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	6137	6230	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	6281	6393	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	6443	6629	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	6686	6824	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	6875	6981	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	7027	7161	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	7027	7142	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	8598	8667	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	8642	11197	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-ref-N2	3	NA	NA	NA	NA	
+I	11950	12046	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	12347	12608	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	12651	13452	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	14231	14246	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	14315	14399	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	14444	14501	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	14708	15137	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	17635	17683	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-ref-N2	3	NA	NA	NA	NA	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-7 strains	2	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-7 strains	2	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-7 strains	2	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-7 strains	2	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-7 strains	2	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-7 strains	2	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-7 strains	2	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-7 strains	2	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-7 strains	2	4455944	4456335	yes	same	
+I	5258	5298	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-7 strains	2	4456765	4456805	yes	same	
+I	5884	6068	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-7 strains	2	4457391	4457575	yes	same	
+I	6137	6230	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-7 strains	2	4457644	4457737	yes	same	
+I	6281	6393	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-7 strains	2	4457788	4457900	yes	same	
+I	6443	6629	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-7 strains	2	4457950	4458136	yes	same	
+I	6686	6824	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-7 strains	2	4458193	4458331	yes	same	
+I	6875	6981	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-7 strains	2	4458382	4458488	yes	same	
+I	7027	7161	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-7 strains	2	4458534	4458668	yes	same	
+I	7027	7142	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-7 strains	2	4458534	4458649	yes	same	
+I	8598	8667	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-7 strains	2	4460105	4460174	yes	same	
+I	8642	11197	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-7 strains	2	4460149	4462704	yes	same	
+I	11950	12046	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-7 strains	2	4463457	4463553	yes	same	
+I	12434	12695	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-7 strains	2	4463854	4464115	no	same	
+I	12738	13539	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-7 strains	2	4464158	4464959	no	same	
+I	14318	14333	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-7 strains	2	4465738	4465753	no	same	
+I	14402	14486	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-7 strains	2	4465822	4465906	no	same	
+I	14531	14588	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-7 strains	2	4465951	4466008	no	same	
+I	14795	15224	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-7 strains	2	4466215	4466644	no	same	
+I	17722	17770	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-7 strains	2	4469142	4469190	no	same	
+I	1	319	-	CDS	WBGene00016566	10	protein_coding	Ce-eri-7	Ce-JU1400	1	4451508	4451826	yes	same	
+I	762	894	-	CDS	WBGene00016566	9	protein_coding	Ce-eri-7	Ce-JU1400	1	4452269	4452401	yes	same	
+I	939	1181	-	CDS	WBGene00016566	8	protein_coding	Ce-eri-7	Ce-JU1400	1	4452446	4452688	yes	same	
+I	1793	1965	-	CDS	WBGene00016566	7	protein_coding	Ce-eri-7	Ce-JU1400	1	4453300	4453472	yes	same	
+I	2012	2194	-	CDS	WBGene00016566	6	protein_coding	Ce-eri-7	Ce-JU1400	1	4453519	4453701	yes	same	
+I	3123	3337	-	CDS	WBGene00016566	5	protein_coding	Ce-eri-7	Ce-JU1400	1	4454630	4454844	yes	same	
+I	3384	3485	-	CDS	WBGene00016566	4	protein_coding	Ce-eri-7	Ce-JU1400	1	4454891	4454992	yes	same	
+I	3864	3937	-	CDS	WBGene00016566	3	protein_coding	Ce-eri-7	Ce-JU1400	1	4455371	4455444	yes	same	
+I	4437	4828	-	CDS	WBGene00016566	2	protein_coding	Ce-eri-7	Ce-JU1400	1	4455944	4456335	yes	same	
+I	5258	5298	-	CDS	WBGene00016566	1	protein_coding	Ce-eri-7	Ce-JU1400	1	4456765	4456805	yes	same	
+I	5884	6068	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU1400	1	4457391	4457575	yes	same	
+I	6137	6230	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU1400	1	4457644	4457737	yes	same	
+I	6281	6393	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU1400	1	4457788	4457900	yes	same	
+I	6443	6629	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-JU1400	1	4457950	4458136	yes	same	
+I	6686	6824	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-JU1400	1	4458193	4458331	yes	same	
+I	6875	6981	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-JU1400	1	4458382	4458488	yes	same	
+I	7027	7161	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU1400	1	4458534	4458668	yes	same	
+I	7027	7142	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU1400	1	4458534	4458649	yes	same	
+I	11431	11500	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-JU1400	1	4460105	4460174	no	same	
+I	11475	14030	-	CDS	WBGene00016565	1	protein_coding	Ce-sosi-1	Ce-JU1400	1	4460149	4462704	no	same	
+I	14783	14879	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-JU1400	1	4463457	4463553	no	same	
+I	15267	15528	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU1400	1	4463854	4464115	no	same	
+I	15571	16372	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU1400	1	4464158	4464959	no	same	
+I	17151	17166	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU1400	1	4465738	4465753	no	same	
+I	17235	17319	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU1400	1	4465822	4465906	no	same	
+I	17364	17421	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU1400	1	4465951	4466008	no	same	
+I	17628	18057	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU1400	1	4466215	4466644	no	same	
+I	20555	20603	+	CDS	WBGene00016561	8	protein_coding	Ce-eri-6	Ce-JU1400	1	4469142	4469190	no	same	
+I	8717	8901	+	CDS	WBGene00016561	1	protein_coding	Ce-eri-6	Ce-JU1400	1	4457391	4457575	yes	same	
+I	8970	9063	+	CDS	WBGene00016561	2	protein_coding	Ce-eri-6	Ce-JU1400	1	4457644	4457737	yes	same	
+I	9114	9226	+	CDS	WBGene00016561	3	protein_coding	Ce-eri-6	Ce-JU1400	1	4457788	4457900	yes	same	
+I	9276	9462	+	CDS	WBGene00016561	4	protein_coding	Ce-eri-6	Ce-JU1400	1	4457950	4458136	yes	same	
+I	9519	9657	+	CDS	WBGene00016561	5	protein_coding	Ce-eri-6	Ce-JU1400	1	4458193	4458331	yes	same	
+I	9708	9814	+	CDS	WBGene00016561	6	protein_coding	Ce-eri-6	Ce-JU1400	1	4458382	4458488	yes	same	
+I	9860	9994	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU1400	1	4458534	4458668	yes	same	
+I	9860	9975	+	CDS	WBGene00016561	7	protein_coding	Ce-eri-6	Ce-JU1400	1	4458534	4458649	yes	same	

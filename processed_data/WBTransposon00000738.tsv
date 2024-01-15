@@ -1,0 +1,7 @@
+name	start	end	strand	read_type
+TIR	10302516	10303259	-	Alternative alignment
+WBTransposon00000738	10303482	10318903	+	Alternative alignment
+TIR	10318914	10319657	+	Alternative alignment
+TIR	10302516	10303259	-	Chimeric alignment
+WBTransposon00000738	10303482	10318903	+	Chimeric alignment
+TIR	10319657	10318914	+	Chimeric alignment
